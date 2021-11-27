@@ -1,6 +1,7 @@
 <template>
   <v-app>
     <v-app-bar app color="primary" dark>
+      <h1>Hello Github action</h1>
       <div class="d-flex align-center">
         <v-img
           alt="Vuetify Logo"
