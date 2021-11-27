@@ -8,7 +8,7 @@
           <v-text-field
             label="todo"
             outlined
-            placeholder="todoを入力してくだい"
+            placeholder="please insert todo"
             @keyup.enter="addTodo"
             v-model="title"
           />
